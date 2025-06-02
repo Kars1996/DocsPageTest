@@ -1,0 +1,23 @@
+{
+    "$schema": "https://docs.page/schema.json",
+    "name": "My Docs",
+    "description": "My documentation site",
+    "favicon": "https://cdn.resynced.design/resynced.png",
+    "sidebar": [
+        {
+            "group": "Getting Started",
+            "pages": [
+                {
+                    "title": "Getting to know docs.page",
+                    "href": "/",
+                    "icon": "rocket"
+                },
+                {
+                    "title": "Next Steps",
+                    "href": "/next-steps",
+                    "icon": "arrow-right"
+                }
+            ]
+        }
+    ]
+}
